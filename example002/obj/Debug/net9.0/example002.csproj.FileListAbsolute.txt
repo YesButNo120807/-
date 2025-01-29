@@ -1,0 +1,15 @@
+C:\Users\maksa\Desktop\С#\example002\obj\Debug\net9.0\example002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksa\Desktop\С#\example002\obj\Debug\net9.0\example002.AssemblyInfoInputs.cache
+C:\Users\maksa\Desktop\С#\example002\obj\Debug\net9.0\example002.AssemblyInfo.cs
+C:\Users\maksa\Desktop\С#\example002\obj\Debug\net9.0\example002.csproj.CoreCompileInputs.cache
+C:\Users\maksa\Desktop\С#\example002\obj\Debug\net9.0\example002.sourcelink.json
+C:\Users\maksa\Desktop\С#\example002\bin\Debug\net9.0\example002.exe
+C:\Users\maksa\Desktop\С#\example002\bin\Debug\net9.0\example002.deps.json
+C:\Users\maksa\Desktop\С#\example002\bin\Debug\net9.0\example002.runtimeconfig.json
+C:\Users\maksa\Desktop\С#\example002\bin\Debug\net9.0\example002.dll
+C:\Users\maksa\Desktop\С#\example002\bin\Debug\net9.0\example002.pdb
+C:\Users\maksa\Desktop\С#\example002\obj\Debug\net9.0\example002.dll
+C:\Users\maksa\Desktop\С#\example002\obj\Debug\net9.0\refint\example002.dll
+C:\Users\maksa\Desktop\С#\example002\obj\Debug\net9.0\example002.pdb
+C:\Users\maksa\Desktop\С#\example002\obj\Debug\net9.0\example002.genruntimeconfig.cache
+C:\Users\maksa\Desktop\С#\example002\obj\Debug\net9.0\ref\example002.dll
